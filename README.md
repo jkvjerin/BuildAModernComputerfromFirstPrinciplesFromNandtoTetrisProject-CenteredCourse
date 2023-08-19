@@ -1,5 +1,5 @@
 Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
-by Hebrew University of Jerusalem
+                           by Hebrew University of Jerusalem
 
 About this Course
 What you’ll achieve:
@@ -13,9 +13,6 @@ The course consists of six modules, each comprising a series of video lectures, 
 
 *About Project-Centered Courses: Project-centered courses are designed to help you complete a personally meaningful real-world project, with your instructor and a community of learners with similar goals providing guidance and suggestions along the way. By actively applying new concepts as you learn, you’ll master the course content more efficiently; you’ll also get a head start on using the skills you gain to make positive changes in your life and career. When you complete the course, you’ll have a finished project that you’ll be proud to use and share.
 
-
- Show less
 Shimon Schocken
 Taught by:Shimon Schocken, Professor
-
-Computer Science
+          Computer Science
